@@ -4,5 +4,5 @@
 
 
     void Terrestre::marcher(){
-        std::cout << "Je mache" << std::endl;
+        std::cout << "Je marche" << std::endl;
     }

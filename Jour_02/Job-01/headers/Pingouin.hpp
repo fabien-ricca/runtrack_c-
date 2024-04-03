@@ -14,6 +14,7 @@ class Pingouin : public Aquatique, public Terrestre{
     public:
         Pingouin(std::string);
         void presenter();
+        void marcher() override;
 };
 
 #endif

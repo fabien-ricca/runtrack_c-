@@ -8,7 +8,7 @@ class Terrestre {
         double vitesseDeMarche;
 
     protected :
-        void marcher();
+        virtual void marcher();
 
 };
 
