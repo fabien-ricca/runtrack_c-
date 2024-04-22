@@ -7,6 +7,7 @@
 #include <iostream>
 #include <string>
 
+
 class Pingouin : public Aquatique, public Terrestre{
     private:
         std::string nom;
